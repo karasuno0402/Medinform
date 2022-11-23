@@ -1,0 +1,8 @@
+.myinage-div
+{
+    display: none;
+}
+o.myinage-ssilka:hover+div
+{
+    display: block;
+}
