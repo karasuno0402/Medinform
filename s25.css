@@ -1,0 +1,70 @@
+body {
+    background-color: yellow;
+    color: azure;
+    margin: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    header ,
+
+    footer {
+        text-align: center;
+    }
+    p {
+        text-align: justify;
+        text-indent: 8ch;
+        
+    }
+    h1
+    {
+        color: darkslategrey;
+       font-size: 68px ;
+      
+       font-family: 'Times New Roman', Times, serif
+    }
+    h2
+     {
+        color: bisque;
+        text-decoration-line: underline;
+        
+    }
+    h3
+     {
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 58px ;
+       
+       
+    }
+    h4
+     {
+        color: black;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 30px ;
+       
+    }
+    h5
+     {
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 56px ;
+     
+    }
+    h6
+     {
+        color: black;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px ;
+       
+    }
+    h7
+     {
+        color: white;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 40px ;
+       }
+    h8
+    {
+       color: black;
+       font-family: 'Times New Roman', Times, serif;
+       font-size: 40px ;
+       }
